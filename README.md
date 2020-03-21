@@ -7,6 +7,7 @@
 [![prs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/pterobyte/module-boilerplate/master)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHoukasaurusRex%2Fvue-components.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHoukasaurusRex%2Fvue-components?ref=badge_shield)
 
 Brief description or tagline
 
@@ -72,6 +73,9 @@ Please read [CONTRIBUTING.md](https://github.com/pterobyte/module-boilerplate/.g
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/pterobyte/module-boilerplate/LICENSE) file for details
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHoukasaurusRex%2Fvue-components.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHoukasaurusRex%2Fvue-components?ref=badge_large)
 
 ## Acknowledgments
 
